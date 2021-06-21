@@ -1,0 +1,6 @@
+{
+  "client_id": "853989097219948545",
+  "secret": "tiAYdS70BqiLn8VnIlBEgl8wMO_boqIf",
+  "redirectUri": "http://localhost:8080/loading",
+  "theme": "theme1"
+}
